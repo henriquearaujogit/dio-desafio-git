@@ -1,0 +1,8 @@
+primeiro repositório do Bootcamp Spread Fullstack Developer
+
+resolução de quando o git apresentar o erro "Everything up-to-date
+
+git reset --hard [sua branch]
+git add .
+git commit -m "...blablabla"
+git push origin [sua branch]
